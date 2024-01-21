@@ -1,2 +1,2 @@
 # cs50
-My cs50 course notes
+This includes my cs50-2024 notes and practice material!
